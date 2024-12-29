@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\bin\Debug\net8.0\MethodsPractices.exe
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\bin\Debug\net8.0\MethodsPractices.deps.json
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\bin\Debug\net8.0\MethodsPractices.runtimeconfig.json
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\bin\Debug\net8.0\MethodsPractices.dll
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\bin\Debug\net8.0\MethodsPractices.pdb
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.AssemblyInfo.cs
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.dll
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\refint\MethodsPractices.dll
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.pdb
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\MethodsPractices.genruntimeconfig.cache
+C:\Users\caplo\source\repos\MethodsPractices\MethodsPractices\obj\Debug\net8.0\ref\MethodsPractices.dll
